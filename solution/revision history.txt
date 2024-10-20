@@ -1,0 +1,5 @@
+cdms_v1.0
+  2024-10-20
+    -log in form
+    -sql server connection
+    -log history - tracking who used what they did in the management system
