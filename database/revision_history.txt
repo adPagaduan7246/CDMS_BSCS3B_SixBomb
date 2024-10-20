@@ -1,0 +1,5 @@
+cdmsDB_v0.1
+  2024-10-20 - allexus
+    -Person
+      -LogHistory
+      -UserInformation
