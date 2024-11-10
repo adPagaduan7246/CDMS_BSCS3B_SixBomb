@@ -7,3 +7,11 @@ cdms_v0.1 ~~~ 2024-10-20 - allexus
 cdms_v0.2 ~~~ 2024-10-20 - allexus
   -user activity form
   -account management
+
+cdms_v0.3 ~~~ 2024-11-10 - allexus
+  -functional user activity form
+  -functional user management form
+  -functional log in form
+  -tracability of activity is ensured
+  -codes should be functional already among the mentioned forms
+  -already starting to work with the census form as I typing this
