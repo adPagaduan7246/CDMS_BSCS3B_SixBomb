@@ -6,3 +6,6 @@ cdmsDB_v0.1 ~~~ 2024-10-20 - allexus
 cdmsDB_v0.2 ~~~2024-10-20 - allexus
   -new records in Person.LogHistory
   -same lng, pero using newer version ng sqlserver, 2008 kasi ung isa
+
+cdmsDB_v0.3 ~~~2023-11-10 - allexus
+  -new records both in Person.LogHistory and Person.UserInformation
